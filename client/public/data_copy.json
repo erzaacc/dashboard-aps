@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "code": 200,
+        "status": "OK",
+        "message": "Successfully fetched"
+    },
+    "data": [
+        {
+            "name": "Prob-Oracle-Invc-Tdk Msk Bucket Finance (Non MGU)",
+            "total_tickets": 50
+        },
+        {
+            "name": "Prob-AOL+AA-View Slik-Tidak Sesuai/Not Found",
+            "total_tickets": 35
+        },
+        {
+            "name": "Perubahan Data-Data BPKB Retail",
+            "total_tickets": 27
+        },
+        {
+            "name": "Setting Day End Arium",
+            "total_tickets": 21
+        },
+        {
+            "name": "Perubahan Data Rescheduling",
+            "total_tickets": 20
+        },
+        {
+            "name": "OPCENT - Aplikasi TOSCA Kendala Aplikasi",
+            "total_tickets": 15
+        },
+        {
+            "name": "Prob-AOL+AM-Refins-Simulasi Gagal",
+            "total_tickets": 11
+        },
+        {
+            "name": "Prob-AOL+AA-DP-Doc PDF Tidak Lengkap (NON MGU)",
+            "total_tickets": 9
+        },
+        {
+            "name": "Prob-AOL+AA-AP-Button Confirm Tidak Aktif",
+            "total_tickets": 6
+        },
+        {
+            "name": "Perubahan Data Asuransi",
+            "total_tickets": 3
+        }
+    ]
+}
