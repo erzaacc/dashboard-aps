@@ -14,7 +14,8 @@ const TicketDetailChart = () => {
       const endDate = "2025-05-31";
 
       try {
-        const response = await fetch(`/api/v1/ticket/top-module?startDate=${startDate}&endDate=${endDate}`)
+        // const response = await fetch(`/api/v1/ticket/top-module?startDate=${startDate}&endDate=${endDate}`)
+        const response = await fetch('null')
         const result = await response.json();
 
         if (result.data && Array.isArray(result.data)) {
